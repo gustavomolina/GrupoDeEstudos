@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1012276888167",
+    "firebase_url": "https://grupodeestudos-d87eb.firebaseio.com",
+    "project_id": "grupodeestudos-d87eb",
+    "storage_bucket": "grupodeestudos-d87eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012276888167:android:5e148e01f1e7b109a34ac2",
+        "android_client_info": {
+          "package_name": "com.example.grupodeestudos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012276888167-lsau3ptjk242ap230ivqg0nl37577ul3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grupodeestudos",
+            "certificate_hash": "5b3861814c764539a2a5a32e605b2205770b6cce"
+          }
+        },
+        {
+          "client_id": "1012276888167-mtlb45uqhj978k41r71qja4brc138qkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgFXlYYJUbqBfTJ0n9qjCO4Fk9WgsKmdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012276888167-mtlb45uqhj978k41r71qja4brc138qkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
